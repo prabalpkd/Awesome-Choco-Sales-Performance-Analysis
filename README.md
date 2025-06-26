@@ -61,11 +61,9 @@ The Power BI dashboard delivers insights across the following key business metri
 ---
 
 
----
-
 ## 📸 Dashboard Preview
 
-> *(Insert a screenshot of your dashboard here inside the Assets folder and reference it using `![Dashboard Preview](Assets/dashboard_screenshots.png)`)*
+> ![Dashboard Preview](Assets/dashboard_screenshots.png)`)*
 
 ---
 
@@ -87,8 +85,8 @@ This project is a self-initiated case study based on a fictional dataset for lea
 ## 📬 Contact
 
 **Prabal Kumar Deka**  
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-Email: your.email@example.com
+LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/prabal-kumar-deka-108562239/)  
+Email: prabal789.official@gmail.com
 
 ---
 
