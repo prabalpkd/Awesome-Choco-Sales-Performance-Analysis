@@ -63,7 +63,7 @@ The Power BI dashboard delivers insights across the following key business metri
 
 ## 📸 Dashboard Preview
 
-> ![Dashboard Preview](Assets/dashboard_screenshots.png)`)*
+> ![Dashboard Preview](https://github.com/prabalpkd/Awesome-Choco-Sales-Performance-Analysis/blob/main/Snapshot_01.png)
 
 ---
 
